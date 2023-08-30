@@ -10,7 +10,7 @@ Welcome to my coding corner! 🚀 As a graduate of the National University of Co
 
 🚀 Eager to collaborate and contribute, I'm on the lookout for opportunities to push the boundaries of what's possible in the webverse. Let's connect and build something awesome together!
 
-📬 Feel free to drop me a line at [Your Email](mailto:Hamzaabhutta@gmail.com) 📧. Whether it's coding conundrums or tech talks, I'm all ears!
+📬 Feel free to drop me a line at [my email](mailto:Hamzaabhutta@gmail.com) 📧. Whether it's coding conundrums or tech talks, I'm all ears!
 
 🌟 Keep the code compiling and the creativity flowing. Happy coding! 👨‍💻🎨
 
