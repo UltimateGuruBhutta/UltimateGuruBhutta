@@ -24,6 +24,8 @@ Hamza Ahmad Bhutta 🚀
 Welcome to my project showcase! Here are some of the projects I've worked on:
 
 ## Frontend Projects
+### Kharcha - React Router based Frontend Project
+[Live Demo](https://kharchaa.netlify.app/)
 
 ### WEEKAWAY - TailwindCSS Project
 Explore the Weekaway project, showcasing my usage of TailwindCSS for styling:
