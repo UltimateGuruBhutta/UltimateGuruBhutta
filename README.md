@@ -19,9 +19,15 @@ Hamza Ahmad Bhutta 🚀
 
 
 
+
 # Project Showcase
 
 Welcome to my project showcase! Here are some of the projects I've worked on:
+
+## MERN STACK  E-commerce  Projects TechBazaar
+### TechBazaar is basic e-commerce website made with React and Node 
+[Demo Link](https://techbazaar2-03b6a14861c6.herokuapp.com/)
+
 
 ## Frontend Projects
 ### Kharcha - React Router based Frontend Project
