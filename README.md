@@ -32,7 +32,7 @@ I'm eager to collaborate and contribute to exciting web projects. Let's connect 
 
 ## Contact
 
-Feel free to reach out to me via email at [your.email@example.com](mailto:hamzaabhutta@gmail.com). Whether you have coding conundrums or want to engage in tech discussions, I'm all ears.
+Feel free to reach out to me via email at [Gmail:](mailto:hamzaabhutta@gmail.com). Whether you have coding conundrums or want to engage in tech discussions, I'm all ears.
 
 ## Keep the Code Compiling and the Creativity Flowing
 
