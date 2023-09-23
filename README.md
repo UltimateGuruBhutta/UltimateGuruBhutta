@@ -22,29 +22,6 @@ My skills encompass a wide range of web technologies and development tools, incl
 
 I have a strong commitment to turning creative ideas into stunning web realities. From dynamic and interactive frontends to server-side magic with Express.js, I thrive on tackling challenges and delivering high-quality solutions.
 
-## Passion for Web Tech
-
-Exploring the vast realms of web technology is my passion. I find joy in crafting pixel-perfect user interfaces and molding databases with precision. I continuously expand my knowledge to stay at the forefront of the ever-evolving digital landscape.
-
-## Collaboration and Contribution
-
-I'm eager to collaborate and contribute to exciting web projects. Let's connect and build something remarkable together. I believe in pushing the boundaries of what's possible in the webverse.
-
-## Contact
-
-Feel free to reach out to me via email at [Gmail:](mailto:hamzaabhutta@gmail.com). Whether you have coding conundrums or want to engage in tech discussions, I'm all ears.
-
-## Keep the Code Compiling and the Creativity Flowing
-
-I'm dedicated to keeping the code compiling and the creativity flowing. Happy coding! 👨‍💻🎨
-
-Cheers,
-
-Hamza Ahmad Bhutta 🚀
-
-
-
-
 # Project Showcase
 
 Welcome to my project showcase! Here are some of the projects I've worked on:
@@ -68,9 +45,22 @@ Check out my static website project featuring Nike shoes using HTML and CSS:
 
 Feel free to explore the live demos and see the projects in action!
 
-## Contributing
+## Passion for Web Tech
 
-If you have any suggestions or feedback, feel free to open an issue or submit a pull request. Contributions are always appreciated.
+Exploring the vast realms of web technology is my passion. I find joy in crafting pixel-perfect user interfaces and molding databases with precision. I continuously expand my knowledge to stay at the forefront of the ever-evolving digital landscape.
+
+## Collaboration and Contribution
+
+I'm eager to collaborate and contribute to exciting web projects. Let's connect and build something remarkable together. I believe in pushing the boundaries of what's possible in the webverse.
+ 
+
+## Keep the Code Compiling and the Creativity Flowing
+
+I'm dedicated to keeping the code compiling and the creativity flowing. Happy coding! 👨‍💻🎨
+
+Cheers,
+
+Hamza Ahmad Bhutta 🚀
 
 ## Contact
 
