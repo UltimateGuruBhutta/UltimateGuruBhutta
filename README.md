@@ -17,12 +17,9 @@ My skills encompass a wide range of web technologies and development tools, incl
 - UI/UX Design for Pixel-Perfect Interfaces
 - Web Application Deployment and Hosting
 - Collaborative Problem Solving
+ 
 
-## What I Do
-
-I have a strong commitment to turning creative ideas into stunning web realities. From dynamic and interactive frontends to server-side magic with Express.js, I thrive on tackling challenges and delivering high-quality solutions.
-
-# Project Showcase
+## Project Showcase
 
 Welcome to my project showcase! Here are some of the projects I've worked on:
 
@@ -50,12 +47,7 @@ Feel free to explore the live demos and see the projects in action!
 Exploring the vast realms of web technology is my passion. I find joy in crafting pixel-perfect user interfaces and molding databases with precision. I continuously expand my knowledge to stay at the forefront of the ever-evolving digital landscape.
 
 ## Collaboration and Contribution
-
 I'm eager to collaborate and contribute to exciting web projects. Let's connect and build something remarkable together. I believe in pushing the boundaries of what's possible in the webverse.
- 
-
-## Keep the Code Compiling and the Creativity Flowing
-
 I'm dedicated to keeping the code compiling and the creativity flowing. Happy coding! 👨‍💻🎨
 
 Cheers,
@@ -65,11 +57,6 @@ Hamza Ahmad Bhutta 🚀
 ## Contact
 
 You can reach me at Hamzaabhutta@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/hamza-ahmad-bhutta-ab7694204/).
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 
 <!---
 UltimateGuruBhutta/UltimateGuruBhutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
