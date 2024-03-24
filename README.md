@@ -14,7 +14,6 @@ My skills encompass a wide range of web technologies and development tools, incl
 - Frontend Development with React.js
 - Backend Development with Express.js
 - Database Management with MongoDB,MySql
-- UI/UX Design for Pixel-Perfect Interfaces
 - Web Application Deployment and Hosting
 - Collaborative Problem Solving
  
