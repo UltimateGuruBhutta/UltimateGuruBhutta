@@ -2,7 +2,7 @@
 
 I'm Hamza Ahmad Bhutta, a recent graduate of the National University of Computer and Emerging Sciences (FAST-NUCES), with a strong passion for web development and the MERN stack. I take pride in crafting digital solutions and pushing the boundaries of what's possible in the world of web technologies.
 
-###Portfolio: https://hamzabhutta-portfolio.netlify.app/
+##Portfolio: https://hamzabhutta-portfolio.netlify.app/
 ## Professional Summary
 
 - **Education:** National University of Computer and Emerging Sciences Graduate
